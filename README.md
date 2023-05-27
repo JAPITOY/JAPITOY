@@ -3,7 +3,7 @@
 <!--
 **JAPITOY/JAPITOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-HARRY POTTER SERIES
+### HARRY POTTER SERIES
 
 Harry Potter and the Philosopher's Stone (2001)
 Harry Potter and the Chamber of Secrets (2002)
